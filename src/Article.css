@@ -1,0 +1,159 @@
+.ArticlePage
+{
+    position: relative;
+    margin: 16px 140px 39px 140px;
+    height: 3550px;
+}
+.article .articleTitle
+{
+    font-size: 86px;
+    color: #46B2AD;
+    margin-top: 42px;
+    font-weight: bold;
+}
+.article h2
+{
+    font-size: 57px;
+    color: #396563;
+    font-weight: normal;
+}
+.article .articleWriter
+{
+    text-decoration: underline;
+}
+
+.article h3
+{
+    font-size: 30px;
+    color: #396563;
+    font-weight: normal;
+}
+.article h4
+{
+    color: rgb(172, 172, 172);
+    font-size: 30px;
+    font-weight: normal;
+    margin-bottom: 39px;
+}
+.article .articlePath1
+{
+    text-decoration: underline;
+}
+.article .articlePath2
+{
+    color: #46B2AD;
+}
+.article img
+{
+    height: 972.17px;
+    width: 1640px;
+    border-radius: 25px;
+
+}
+.article p
+{
+    margin-top: 80px;
+    color: #396563;
+    font-size: 28px;
+    font-weight: normal;
+    width: 1766px;
+}
+.moreArticles .Title
+{   
+    margin-top: 40px;
+    position: absolute;
+    width: 1640px;
+}
+.moreArticles .Title p
+{
+    font-size: 28px;
+    color: #46B2AD;
+    font-weight: bold;
+    float: left;
+}
+.moreArticles .Title hr
+{
+    width: 1420.5px;
+    border-top: 2px solid #46B2AD;
+    margin-top: 18px;
+    margin-left:30.5px;
+    background-color: #46B2AD;
+    float: left;
+}
+.moreArticles .firstArticle
+{
+    position: absolute;
+    margin-top: 119px;
+}
+.moreArticles .secondArticle
+{
+    position: absolute;
+    margin-top: 457px;
+}
+.moreArticles .thirdArticle
+{
+    position: absolute;
+    margin-top: 795px;
+}
+.moreArticles .fourthArticle
+{
+    position: absolute;
+    margin-top: 1133px;
+}
+.moreArticles .ArticlePhoto 
+{   
+    position: absolute;
+    width: 536px;
+    height: 275.88px;;
+}
+.moreArticles .ArticlePhoto img
+{
+    width: 536px;
+    height: 275.88px;;
+}
+.moreArticles .ArticleBio
+{
+    margin-left: 552px;
+    position: absolute;
+    width: 1092px;
+}
+.moreArticles .ArticleBio h1
+{
+    font-size: 45px;
+    color: #46B2AD;
+}
+.moreArticles .ArticleBio h2
+{
+    font-size: 35px;
+    color: #396563;
+    font-weight: normal;
+}
+.moreArticles .ArticleBio h3
+{
+    font-size: 26px;
+    color: #396563;
+    font-weight: normal;
+}
+.moreArticles .ArticleBio h4
+{   
+    margin-top: 10px; 
+    font-size: 28px;
+    color: #396563;
+}
+.moreArticles .ArticleBio hr
+{   
+    width: 1087.5px;
+    border-top: 2px solid #46B2AD;
+    margin-top: 10px;
+    background-color: #46B2AD;
+    float: left;
+}
+.moreArticles .moreNews 
+{
+    position: absolute;
+    color: #46B2AD;
+    font-size: 28px;   
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 1481px;
+}

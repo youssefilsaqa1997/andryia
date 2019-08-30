@@ -1,0 +1,40 @@
+.about 
+{
+    margin-left: 140px;
+    margin-top: 63px;
+    margin-bottom: 131.5px;
+    position: relative;
+    height: 1060px;
+}
+.about h1
+{
+    
+    position: absolute;
+    font-size: 40px;
+    color: #46B2AD;
+    height: 48px;
+}
+.about .left
+{   
+    position: absolute;
+    padding-top: 73px;
+    width: 750px;   
+}
+h2
+{
+    font-size: 30px;
+    color: #396563;
+}
+h3
+{
+    font-size: 30px;
+    color: #396563;
+    font-weight: normal;
+}
+.about .right
+{   
+    position: absolute;
+    padding-top: 73px;
+    margin-left: 828px;
+    width: 859px;
+}

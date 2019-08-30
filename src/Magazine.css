@@ -1,0 +1,45 @@
+.Magazine
+{   
+    width: 1640px;
+    height: 1206.5px;
+}
+.Magazine ul
+{   
+    position: absolute ;
+    list-style: none;
+    margin: 65.5px 0px 0px 570px;
+}
+.Magazine ul li 
+{   
+    color: #CDCDCD;
+    font-size: 20px;
+    display: inline-grid;
+    text-align: center;
+    margin-right: 100px;
+
+}
+.Magazine ul li p
+{   
+    float: left;
+    overflow: hidden;
+    font-size: 40px;
+    color:#FFFFFF;
+    width:64px;
+    height: 64px;
+    background-color: #CDCDCD;
+    padding: 8px 4px 0px 4px ;
+    text-align: center;
+    margin-top: 12px;
+
+}
+.Magazine .magazinePhoto
+{   
+    position: absolute;
+    margin-top: 220px;
+
+}
+.Magazine .magazinePhoto img
+{
+    height: 860px;
+    margin-left: 130px;
+}

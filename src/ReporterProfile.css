@@ -1,0 +1,162 @@
+.ReporterProfile
+{
+    position: relative;
+    height: 1350px;
+    margin-left: 140px;
+    margin-top: 64.5px;
+}
+.profile .profilePhoto
+{
+    position: absolute;
+}
+.profile .profilePhoto img
+{  
+    width: 605px;
+   height: 560px;
+}
+.profile .profileBio
+{
+    position: absolute;
+    width: 927px;
+    margin-left: 635px;
+}
+.profile .profileBio h1
+{
+    font-size: 60px;
+    color: #46B2AD;
+}
+.profile .profileBio h2
+{
+    margin-top:62px; 
+    font-weight: normal;
+    font-size: 28px;
+    color: #396563;
+}
+.ReporterArticles .Title
+{   
+    margin-top: 660px;
+    position: absolute;
+    width: 1640px;
+}
+.ReporterArticles .Title p
+{
+    font-size: 28px;
+    color: #46B2AD;
+    font-weight: bold;
+    float: left;
+}
+.ReporterArticles .Title hr
+{
+    width: 1188.5px;
+    border-top: 2px solid #46B2AD;
+    margin-top: 18px;
+    margin-left:30.5px;
+    background-color: #46B2AD;
+    float: left;
+}
+.firstArticle
+{
+    position: absolute;
+    margin-top: 703px;
+}
+.firstArticle .ArticlePhoto 
+{   
+    position: absolute;
+    width: 536px;
+    height: 275.88px;;
+}
+.firstArticle .ArticlePhoto img
+{
+    width: 536px;
+    height: 275.88px;;
+}
+.firstArticle .ArticleBio
+{
+    margin-left: 552px;
+    position: absolute;
+    width: 1092px;
+}
+.firstArticle .ArticleBio h1
+{
+    font-size: 45px;
+    color: #46B2AD;
+}
+.firstArticle .ArticleBio h2
+{
+    font-size: 35px;
+    color: #396563;
+    font-weight: normal;
+}
+.firstArticle .ArticleBio h3
+{
+    font-size: 26px;
+    color: #396563;
+    font-weight: normal;
+}
+.firstArticle .ArticleBio h4
+{   
+    margin-top: 10px; 
+    font-size: 28px;
+    color: #396563;
+}
+.firstArticle .ArticleBio hr
+{   
+    width: 1087.5px;
+    border-top: 2px solid #46B2AD;
+    margin-top: 10px;
+    background-color: #46B2AD;
+    float: left;
+}
+.secondArticle
+{
+    position: absolute;
+    margin-top: 1041px;
+}
+.secondArticle .ArticlePhoto 
+{   
+    position: absolute;
+    width: 536px;
+    height: 275.88px;;
+}
+.secondArticle .ArticlePhoto img
+{
+    width: 536px;
+    height: 275.88px;;
+}
+.secondArticle .ArticleBio
+{
+    margin-left: 552px;
+    position: absolute;
+    width: 1092px;
+}
+.secondArticle .ArticleBio h1
+{
+    font-size: 45px;
+    color: #46B2AD;
+}
+.secondArticle .ArticleBio h2
+{
+    font-size: 35px;
+    color: #396563;
+    font-weight: normal;
+}
+.secondArticle .ArticleBio h3
+{
+    font-size: 26px;
+    color: #396563;
+    font-weight: normal;
+}
+.secondArticle .ArticleBio h4
+{   
+    margin-top: 10px; 
+    font-size: 28px;
+    color: #396563;
+}
+.secondArticle .ArticleBio hr
+{   
+    width: 1087.5px;
+    border-top: 2px solid #46B2AD;
+    margin-top: 10px;
+    background-color: #46B2AD;
+    float: left;
+}

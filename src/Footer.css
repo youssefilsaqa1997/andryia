@@ -1,0 +1,63 @@
+.Footer
+{   
+    margin: 82.44px 140px 100px 140px ;
+    border-top: 3px solid #46B2AD;
+    width: 1639.5px;
+}
+
+.Footer input[type="image"]
+{
+    width: 35px;
+    height: 46px;
+    margin: 40.5px 0px 0px 0px;
+    border-top: 2px solid #46B2AD;
+    border-bottom: 2px solid  #46B2AD;
+    border-left: 2px solid #46B2AD;
+    border-right: 0px;
+    border-radius:  25px 0px 0px 25px ;
+}
+
+.Footer input
+{
+    float: left;
+    width: 230px; 
+    height: 50px;
+    margin-top: 40.5px;
+    background-color: #FFFFFF;
+    border-top: 2px solid #46B2AD;
+    border-bottom: 2px solid  #46B2AD;
+    border-left: 0px;
+    border-right: 2px solid #46B2AD;
+    border-radius: 0px 25px 25px 0px;
+}
+
+.Footer input[type="button"]
+{   
+    width: 122px;
+    height: 50px;
+    background-color: #46B2AD;
+    border-radius: 25px 25px 25px 25px;
+    margin-left:16px;
+    margin-right: 262px;
+    color: #FFFFFF;
+    font-size:20px;
+}
+
+.Footer div.copyRights
+{
+    margin: 52.5px 0px 0px 660px ;
+    font-size: 20px;
+    position: absolute;
+    color: #46B2AD;
+    
+}
+
+.Footer div.Policy
+{   
+    margin: 52.5px 0px 0px 1514px ;
+    font-size: 20px;
+    color: #46B2AD;
+    text-decoration: underline;
+    position: absolute;
+    
+}

@@ -1,0 +1,28 @@
+.navigator .naviComponents img
+{
+    height: 70px; 
+    width: 70px;
+    padding-top: 7px;
+    padding-left: 275px;
+    padding-right: 278px;
+    float: left;
+}
+
+.navigator ul
+{ list-style: none;  }
+
+.navigator li
+{ float: left;  margin-right: 31px; padding-top: 28px; padding-bottom: 15px;  overflow: hidden;  font-size:22px;  color:#CDCDCD; }
+
+.navigator li:hover
+{
+    color: #46B2AD; font-weight: bold; border-bottom: 10PX solid #46B2AD; cursor: pointer;
+}
+.line{
+    width: 1469px;
+    height: 143px;
+    margin-left: 311px;
+    margin-right: 140px;
+    border-bottom: 2px solid #46B2AD;
+    }   
+

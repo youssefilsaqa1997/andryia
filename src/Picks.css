@@ -1,0 +1,266 @@
+.picks
+{
+    margin-left:140px; 
+    position: relative;
+    height: 1232px;
+}
+.picks .Title
+{
+    overflow: hidden;
+}
+.picks p
+{
+    font-size: 28px;
+    color: #46B2AD;
+    font-weight: bold;
+    float: left;
+}
+.picks hr
+{
+    width: 1449px;
+    border-top: 2px solid #46B2AD;
+    margin-top: 18px;
+    margin-left:10px;
+    background-color: #46B2AD;
+    float: left;
+}
+.picks .firstNew 
+{
+    height: 406px;
+    width: 950px;
+    margin-top:45px;
+    position: absolute;
+}
+.picks .firstNew .coverPhoto
+{   
+    width: 950px;
+    height: 406px;
+    position: relative;
+}
+.picks .firstNew .coverPhoto img
+{   
+    width: 950px;
+    height: 406px;
+    border-radius: 18px;
+    position: absolute;
+}
+.picks .firstNew .metaData
+{   
+    height: 406px;
+    width: 950px;
+    position: absolute;
+    border-radius: 18px;
+    background-image: linear-gradient(#0000009e, #00000000, #0000009e);
+    z-index: 0;
+}
+.picks .firstNew .coverPhoto .topMeta
+{   
+    margin: 19px 0px 0px 69px;
+    position: absolute;
+    z-index: 1;
+}
+.picks .firstNew .coverPhoto .topMeta .catagoryMeta
+{
+    font-size: 20px;
+    margin-right: 750px;
+}
+.picks .firstNew .coverPhoto .topMeta .headMeta
+{
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.picks .firstNew .coverPhoto .bottomMeta
+{
+    margin: 332px 0px 0px 69px;
+    position: absolute;
+    z-index: 1;
+}
+.picks .firstNew .coverPhoto .bottomMeta p
+{
+    max-width: 730px;
+    max-height: 64px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.picks .secondNew 
+{
+    width: 676px;
+    height: 631.76px;
+    margin-top:45px;
+    margin-left: 960px;
+    position: absolute;
+}
+.picks .secondNew .coverPhoto
+{   
+    width: 676px;
+    height: 631.76px;
+    position: relative;
+}
+.picks .secondNew .coverPhoto img
+{   
+    width: 676px;
+    height: 631.76px;
+    border-radius: 18px;
+    position: absolute;
+}
+.picks .secondNew .metaData
+{   
+    width: 676px;
+    height: 631.76px;
+    position: absolute;
+    border-radius: 18px;
+    background-image: linear-gradient(#0000009e, #00000000, #0000009e);
+    z-index: 0;
+}
+.picks .secondNew .coverPhoto .topMeta
+{   
+    margin: 19px 0px 0px 69px;
+    position: absolute;
+    z-index: 1;
+}
+.picks .secondNew .coverPhoto .topMeta .catagoryMeta
+{
+    font-size: 20px;
+    margin-right: 750px;
+}
+.picks .secondNew .coverPhoto .topMeta .headMeta
+{
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.picks .secondNew .coverPhoto .bottomMeta
+{
+    margin: 452px 49px 19.76px 44px;
+    width: 676px;
+    height: 160px;
+    position: absolute;
+    z-index: 1;
+}
+.picks .secondNew .coverPhoto .bottomMeta p
+{
+    max-width: 581px;
+    max-height: 160px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.picks .thirdNew 
+{
+    width: 950px;
+    height: 711.76px;
+    margin-top: 481.5px;
+    position: absolute;
+}
+.picks .thirdNew .coverPhoto
+{   
+    width: 950px;
+    height: 711.76px;
+    position: relative;
+}
+.picks .thirdNew .coverPhoto img
+{   
+    width: 950px;
+    height: 711.76px;
+    border-radius: 18px;
+    position: absolute;
+}
+.picks .thirdNew .metaData
+{   
+    width: 950px;
+    height: 711.76px;
+    position: absolute;
+    border-radius: 18px;
+    background-image: linear-gradient(#0000009e, #00000000, #0000009e);
+    z-index: 0;
+}
+.picks .thirdNew .coverPhoto .topMeta
+{   
+    margin: 19px 0px 0px 69px;
+    position: absolute;
+    z-index: 1;
+}
+.picks .thirdNew .coverPhoto .topMeta .catagoryMeta
+{
+    font-size: 20px;
+    margin-right: 750px;
+}
+.picks .thirdNew .coverPhoto .topMeta .headMeta
+{
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.picks .thirdNew .coverPhoto .bottomMeta
+{
+    margin: 627.76px 273px 20px 69px;
+    width: 608px;
+    height: 64px;
+    position: absolute;
+    z-index: 1;
+}
+.picks .thirdNew .coverPhoto .bottomMeta p
+{
+    max-width: 608px;
+    max-height: 64px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.picks .fourthNew 
+{
+    width: 674px;
+    height: 484.76px;
+    margin-top: 708.5px;
+    margin-left: 960px;
+    position: absolute;
+}
+.picks .fourthNew .coverPhoto
+{   
+    width: 674px;
+    height: 484.76px;
+    position: relative;
+}
+.picks .fourthNew .coverPhoto img
+{   
+    width: 674px;
+    height: 484.76px;
+    border-radius: 18px;
+    position: absolute;
+}
+.picks .fourthNew .metaData
+{   
+    width: 674px;
+    height: 484.76px;
+    position: absolute;
+    border-radius: 18px;
+    background-image: linear-gradient(#0000009e, #00000000, #0000009e);
+    z-index: 0;
+}
+.picks .fourthNew .coverPhoto .topMeta
+{   
+    margin: 19px 0px 0px 69px;
+    position: absolute;
+    z-index: 1;
+}
+.picks .fourthNew .coverPhoto .topMeta .catagoryMeta
+{
+    font-size: 20px;
+    margin-right: 750px;
+}
+.picks .fourthNew .coverPhoto .topMeta .headMeta
+{
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.picks .fourthNew .coverPhoto .bottomMeta
+{
+    margin: 334px 29px 22.76px 44px;
+    width: 601px;
+    height: 128px;
+    position: absolute;
+    z-index: 1;
+}
+.picks .fourthNew .coverPhoto .bottomMeta p
+{
+    max-width: 601px;
+    max-height: 128px;
+    font-size: 24px;
+    color: #FFFFFF;
+}

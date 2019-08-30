@@ -1,0 +1,71 @@
+.categories
+{   
+    margin-top:35.24px;
+    margin-left:140px; 
+    margin-right: 140px;
+    width: 1640px;
+    position: relative;
+}
+.categories .Title
+{
+    overflow: hidden;
+}
+.categories p
+{
+    font-size: 30px;
+    color: #46B2AD;
+    font-weight: bold;
+    float: left;
+}
+.categories hr
+{
+    width: 1300.5px;
+    border-top: 2px solid #46B2AD;
+    margin-top: 18px;
+    margin-left:21.5px;
+    background-color: #46B2AD;
+    float: left;
+}
+.categories .categoreBox
+{
+    width:380.91px;
+    height: 320.06px;
+    border-radius: 18px;
+    margin: 45px 14px 0px 14px;
+    display: -webkit-inline-box;
+}
+.categories .categoreBox .coverPhoto
+{   
+    width:380.91px;
+    height: 320.06px;
+    border-radius: 18px;
+    position: relative;
+    
+}
+.categories .categoreBox .coverPhoto img
+{
+    width:380.91px;
+    height: 320.06px;
+    border-radius: 18px;
+    position: absolute;
+}
+.categories .categoreBox .coverPhoto .blur
+{
+    background-color: red;
+}
+.categories .categoreBox .coverPhoto .categoreButton
+{
+    width:367.91px;
+    height: 70px;
+    background-color: #46B2AD;
+    margin: 242px 6px 8.06px 7px;
+    color: #FFFFFF;
+    border-radius: 0px 0px 18px 18px  ;
+    position: absolute;
+    text-align: center;
+}
+.categories .categoreBox .coverPhoto .categoreButton p
+{
+    color: #FFFFFF;
+    font-size: 35px;
+}
